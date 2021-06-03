@@ -20,6 +20,7 @@ library(parsnip)
 
 
 ```
+
 ```{r}
 train<-read.csv("D:/dacon/open/train1.csv")
 test<-read.csv("D:/dacon/open/test1.csv")
